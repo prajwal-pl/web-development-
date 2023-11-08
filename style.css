@@ -1,0 +1,135 @@
+
+html{
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  color: black;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 2px;
+}
+#top {
+  height: 32px;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: #333;
+  background-color: #fff;
+  width: 100%;
+}
+#logo{
+  height: 30px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+#banner{
+  height: 150px;
+  width:100%;
+  object-fit: cover;
+  margin-top: 40px;
+  margin: 0;
+  padding: 0; 
+  border: 1px solid #ccc;
+  border-radius: 12px;
+}
+#about{
+  font-weight: 500;
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+  width: 50%;
+  font-size: 18px;
+}
+#section{
+  display: flex;
+}
+#img{
+  margin: 0;
+  padding: 0;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+  font-weight: 300;
+  font-family: sans-serif;
+}
+li{
+  margin-bottom: 4px;
+}
+.box{
+  padding: 4px;
+  width: 400px;
+  margin: 0 auto 8px auto;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  background-color: #f1f1f1
+}
+#content h1{
+  margin-top: 8px;
+}
+span{
+  font-size: 12px;
+  font-weight: 300;
+  font-family: sans-serif;
+}
+#footer-text{
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 250;
+  color: #fff;
+  padding: 8px;
+}
+#footer{
+  background-color: #666;
+  height: 50px;
+  width: 100%;
+  border-top: 1px solid #666;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+#insta-logo{
+  height: 100px;
+  width: 100px;
+  margin: auto;
+  padding: 4px;
+}
+.contact-box{
+  width: 120px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  height: 120px;
+  margin-bottom: 28px;
+}
+h3{
+  font-family: sans-serif;
+  font-weight: 300;
+  text-align: center;
+  margin-top: 20px;
+}
+#lkd-logo{
+  height: 100px;
+  weight: 100px;
+  margin: auto;
+  padding: 4px;
+}
+#contact{
+  display: flex;
+  justify-content: space-evenly;
+}
+#git-logo{
+  height: 100px;
+  weight: 100px;
+  padding: 4px;
+  margin: auto;
+}
+body{
+  background-color: #e5e5e5;
+}
